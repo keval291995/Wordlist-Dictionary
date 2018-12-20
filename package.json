@@ -1,0 +1,23 @@
+{
+  "name": "wordlist-dictionary",
+  "version": "1.0.0",
+  "description": "Search for Definitions, Synonyms, Antonyms, Examples and Audio of a word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keval291995/Wordlist-Dictionay.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Keval Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keval291995/Wordlist-Dictionay/issues"
+  },
+  "homepage": "https://github.com/keval291995/Wordlist-Dictionay#readme"
+}
